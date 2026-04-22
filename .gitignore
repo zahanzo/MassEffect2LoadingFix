@@ -1,0 +1,10 @@
+# Executables
+*.exe
+*.out
+
+# Objects and libraries
+*.o
+*.obj
+
+# Config file
+me2lsf.ini
